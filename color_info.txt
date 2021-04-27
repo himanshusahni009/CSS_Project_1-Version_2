@@ -1,0 +1,60 @@
+*******************
+font-family : Arial, Helvetica, sans-serif;
+*******************
+
+*******************
+Green Color = #4CAF50;
+Focus or Hover Dark Green Color = #46a049;
+*******************
+
+*******************
+Header Blue Background Color = #2db5b9;
+Header Light Blue Background Color = #abe3e4;
+*******************
+
+*******************
+Navigation Background Color = #616161;
+Navigation Hover Background Color = #000000;
+Navigation Green Active Color = #4CAF50;
+Navigation Dark Green Color (On Hold) = #46a049;
+Navigation Links Color = #ffffff;
+*******************
+
+*******************
+Drop Down Background Color = #616161;
+Drop Down Links Color = #f1f1f1;
+Drop Down Links Hover Background color = #f1f1f1;
+Drop Down Links Hover Color = #000000;
+*******************
+
+*******************
+Side Nav (aside) Background Color = #f1f1f1; 
+Side Nav (aside) Hover Color = #4CAF50;
+Side Nav (aside) Active Background Color = #d4edda;
+*******************
+
+*******************
+Footer Links Color = #000000;
+Footer Links Hover Color = #4CAF50;
+*******************
+
+*******************
+Footer Background Color = #444444;
+*******************
+*******************
+*******************
+*******************
+*******************
+*******************
+Dark grey color on hover = #616161;
+header color (grey) = #f1f1f1;
+footer color (grey) = #f1f1f1;
+light blue background-color: #d4edda;
+light grey color on hover = #cccccc;
+
+light blue footer background-color: #548abd;
+
+
+side nav active2 color: #4CAF50;
+
+table header color: #ffff00; //yellow
